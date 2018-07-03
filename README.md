@@ -1,3 +1,5 @@
+
+
 # hello-world
 I am learning how to use GitHub 
 I love being outside and learning new things. I listen to music 24/7 and go to the mountains as often as I can.
@@ -11,4 +13,8 @@ Me too!
 
 HEY JENNY
 
+<<<<<<< HEAD
 Hunt was here!
+=======
+Hi Hunt! Thanks Damon!
+>>>>>>> 6c1c2893a3fe1c1f8a9e2a653e8b3c0030e057fa
